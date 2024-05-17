@@ -8,15 +8,14 @@ Para executar o código, basta clonar o repositório:
 
 ```bash
 git clone https://github.com/ErickMVdO/Sinerji-teste
-cd sinerji-teste
+cd Sinerji-teste
 ```
 
 Entrar no diretório /src e executar os seguintes comandos:
 
 ```bash
-cd src/
-javac *.java
-java Empresa
+javac src/*.java
+java src.Empresa
 ```
 
 ## Uso:
